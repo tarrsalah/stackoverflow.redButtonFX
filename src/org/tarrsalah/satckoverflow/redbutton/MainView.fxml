@@ -12,6 +12,6 @@
     <Button fx:id="btn" mnemonicParsing="false" onAction="#sayHello" text="  Button" />
   </children>
   <stylesheets>
-    <URL value="@main.css" />
+    <URL value="@css/main.css" />
   </stylesheets>
 </StackPane>
